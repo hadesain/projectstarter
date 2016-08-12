@@ -1,0 +1,24 @@
+td.action .btn{
+	margin-right: 3px;
+	margin-left: 3px;
+}
+
+.dropdown-menu {
+	width: auto !important;
+}
+
+.panel-title {
+	font-size: 24px;
+}
+
+.panel-toolbar {
+	margin-bottom: 10px;
+}
+
+.form-title {
+	margin: 0px 0px 10px 0px;
+}
+
+.panel-footer .btn-default {
+	background-color: #FFF;
+}

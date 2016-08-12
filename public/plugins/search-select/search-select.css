@@ -1,0 +1,41 @@
+.search-select-dropdown {
+	position: absolute;	
+	background: #fff;
+	min-width: 200px;
+	z-index: 1000;	
+	margin-top: -1px;
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;	
+	max-height: 400px;
+	overflow-y: auto;
+	display: none;
+}
+.search-select-dropdown > div {
+	padding: 5px;
+	border-bottom: 1px solid #ccc;
+	cursor: pointer;
+	display: block;
+}
+
+.search-select-dropdown > .search-select-option:hover {
+	padding: 5px;
+	border-bottom: 1px solid #ccc;
+	cursor: pointer;
+	display: block;
+	background-color: #3C8DBC;
+	color: #fff;
+}
+
+.search-select-table {
+	min-width: 600px;
+}
+
+.search-select-table tbody tr{
+	cursor: pointer;
+}
+
+.search-select-table tbody tr:hover{
+	background-color: #3C8DBC;
+	color: #fff;
+}

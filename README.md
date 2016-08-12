@@ -1,1 +1,1 @@
-projectstarter
+starter-pack
